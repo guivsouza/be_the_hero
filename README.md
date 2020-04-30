@@ -4,6 +4,9 @@
   <p align="center">Semana Omnistack11 Rocketseat :rocket: </p>
 </h3>
 
-### Aplicação 🖥📱
+### Aplicação 
 Todo conteúdo desenvolvido durante a semana Omnistack11 #be_the_hero
 
+🏦 em Node
+🖥 em ReactJs
+📱 em React Native
